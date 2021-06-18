@@ -1,6 +1,6 @@
 # EcoSafe: Industrial Water Effluent Monitoring Dashboard
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rsrujana3/team_pirates_water_quality/main?urlpath=Code%2FWater-Quality-main.ipynb)
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)  [![Binder](https://mybinder.org/badge_logo.svg)](https://nbviewer.jupyter.org/github/rsrujana3/team_pirates_water_quality/blob/main/Code/Water-Quality-main.ipynb)
 
 Eco Safe, is a dashboard and a prospective approach towards identifying the industrial factories that are at danger levels to pollute river water and intimate the regulatory bodies and track the action taken by each stakeholder. This has been made and presented as part of a [hackathon](https://wit-ace.com/events/marquee/detail/660433-she-the-force-wit-ace-hackathon)
 
@@ -13,7 +13,7 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - Contents
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
-    - [How can we help?](#how-can-technology-help)
+    - [How can we help?](#how-can-we-help)
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
@@ -47,7 +47,8 @@ Our solution requires installation of sensors in the exit pipelines of large ind
 ## Demo video
 
 [Shorter version](https://www.youtube.com/watch?v=8_0N5XBqOcY)
-[longer version](https://www.youtube.com/watch?v=mZVQnQq41ek)
+
+[Detailed version](https://www.youtube.com/watch?v=mZVQnQq41ek)
 
 
 ## The architecture
@@ -75,14 +76,14 @@ Given here is the link to [wireframes](https://www.figma.com/file/SrxA8MCdMpyrGG
 
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- Open the Jupyter notebook [here](https://mybinder.org/v2/gh/rsrujana3/team_pirates_water_quality/main?filepath=Code%2FWater-Quality-main.ipynb)
+- Open the Jupyter notebook code [here](https://github.com/rsrujana3/team_pirates_water_quality/blob/main/Code/Water-Quality-main.ipynb)
 - Sample-IBM-dashboard [here](https://dataplatform.cloud.ibm.com/dashboards/00f33ee8-db27-44f0-86b0-29ee3d7d6d7c?project_id=bbbbb04a-d210-467c-8836-66c64ea5262a&context=cpdaas&mode=consumption)
 
 
 ## Built with
 
 - [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic and dashboard
-- [Jupyter Notebook](https://mybinder.org/v2/gh/rsrujana3/team_pirates_water_quality/main?filepath=Code%2FWater-Quality-main.ipynb) - The Jupyter notebook for data visualization
+- [Jupyter Notebook](https://nbviewer.jupyter.org/github/rsrujana3/team_pirates_water_quality/blob/main/Code/Water-Quality-main.ipynb) - Jupyter notebook for data visualization and modelling
 
 
 ## Contributing
@@ -92,7 +93,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+For the versions available, see the [tags on this repository](https://github.com/rsrujana3/team_pirates_water_quality/tags).
 
 
 ## License
