@@ -4,9 +4,6 @@
 
 Eco Safe, is a dashboard and a prospective approach towards identifying the industrial factories that are at danger levels to pollute river water and intimate the regulatory bodies and track the action taken by each stakeholder. This has been made and presented as part of a [hackathon](https://wit-ace.com/events/marquee/detail/660433-she-the-force-wit-ace-hackathon)
 
-_Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md)._
-
-
 # Contents
 
 - ECO Saver
